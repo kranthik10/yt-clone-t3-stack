@@ -26,3 +26,8 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 ## How do I deploy this?
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+
+
+## Project Link
+
+[Website](https://yt-clone-t3-stack-iysa7og76-emotional-discounts-projects.vercel.app/)
